@@ -1,6 +1,6 @@
 <div align="center">
   <h3>DATA ANALYST & BUSINESS ANALYST PORTFOLIO</h3>
-  <h2>Health Platform Analytics: User Demographics, Diet Performance, and Energy Balance Report</h2>
+  <h2>Health Platform Analytics: User Demographics, Diet Performance, and Calorie Balance Report</h2>
   <p><b>Created by:</b> Damar Djati Wahyu Kemala | <b>Role:</b> Aspiring Data & Business Analyst (Ex-SIMRS Developer)</p>
   <p><i>© 2026 Damar Djati Wahyu Kemala</i></p>
   <hr />
