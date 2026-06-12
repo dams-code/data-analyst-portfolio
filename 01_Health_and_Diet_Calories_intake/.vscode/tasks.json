@@ -1,0 +1,21 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "sqlproj: Build healthyDietCalorieIntakeProject",
+			"type": "process",
+			"command": "dotnet",
+			"args": [
+				"build",
+				"d:/Data Analyst and Business Analyst/Health and Diet Calories intake/healthyDietCalorieIntakeProject/healthyDietCalorieIntakeProject.sqlproj"
+			],
+			"problemMatcher": "$sqlproj-problem-matcher",
+			"isBackground": true,
+			"group": {
+				"kind": "build",
+				"isDefault": false
+			},
+			"detail": "Builds the healthyDietCalorieIntakeProject SQL project"
+		}
+	]
+}
