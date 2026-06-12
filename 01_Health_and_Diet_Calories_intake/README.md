@@ -38,17 +38,17 @@ Analisis ini berfokus pada tiga pilar masalah utama perusahaan:
 ### Analisis 1: Profil Demografi dan Distribusi Kesehatan
 * **Tujuan:** Memetakan karakteristik dasar responden guna menentukan arah pengembangan konten platform.
 * **Key Finding:** Mayoritas responden (59.6%) berada dalam kategori berat badan di atas ambang batas ideal (Overweight & Obese), dengan didominasi pada kohort pria di rentang usia matang / paruh baya (49-52 tahun).
-* **[Detail Laporan Angka & Query SQL Analisis 1 Lengkap](./query_documentation/Analisis_Demografis.md)**
+* **[Detail Laporan Angka & Query SQL Analisis 1](./query_documentation/Analisis_Demografis.md)**
 
 ### Analisis 2: Efektivitas Jenis Diet terhadap Status Kesehatan
 * **Tujuan:** Menilai program diet mana yang paling direkomendasikan untuk responden baru.
 * **Key Finding:** Ditemukan anomali di mana semua jenis diet menghasilkan pola risiko kelebihan berat badan yang seragam (40%-42%) *Overweight*. Hal ini membuktikan bahwa jenis diet tidak menjamin hasil berakhir healtty jika mengabaikan kontrol kalori total harian.
-* **[Detail Laporan Angka & Query SQL Analisis 2 Lengkap](./query_documentation/Analisis_Efektifitas_Jenis_Diet.md)**
+* **[Detail Laporan Angka & Query SQL Analisis 2](./query_documentation/Analisis_Efektifitas_Jenis_Diet.md)**
 
 ### Analisis 3: Pengaruh Gap pada Kalori terhadap Status Kesehatan
 * **Tujuan:** Mengukur tingkat kedisiplinan nutrisi responden dengan menghitung selisih (*gap*) antara kalori yang dikonsumsi dengan kebutuhan harian (TDEE), serta melihat dampaknya terhadap status kesehatan mereka.
 * **Key Finding:** Terbukti secara teori matematis bahwa kateogri Healthy berada di titik ekuilibrium (keseimbangan) dengan margin hanya -4 kkal/hari, sementara kategori Obese menderita surplus kronis sebesar +531 kkal/hari.
-* **[Detail Laporan Angka & Query SQL Analisis 3 Lengkap](./query_documentation/Analisis_Gap_pada_Kalori.md)**
+* **[Detail Laporan Angka & Query SQL Analisis 3](./query_documentation/Analisis_Gap_pada_Kalori.md)**
 
 ## 6. Looker Studio Dashboard Preview
 * [**Lihat Interaktif Dashboard (Looker Studio)**](https://datastudio.google.com/reporting/7ec7583c-7da8-42b9-a700-a3ef9baff6ad)
