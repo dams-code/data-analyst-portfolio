@@ -55,7 +55,7 @@
 
   ## 3. Recommendation
 
-  ### Optimalisasi Fitur paltform
+  ### A. Optimalisasi Fitur paltform
   * **Perlu Beralih dari "Pilihan Diet" ke "Kontrol Kalori Maksimal":** Sistem paltform harus berhenti menonjolkan satu jenis diet tertentu pada algoritma rekomendasi utama. Fokus fitur harus dialihkan ke kalkulator defisit kalori harian yang ketat.
   * **Fitur Peringatan Karbohidrat Tersembunyi untuk Vegan:** Mengembangkan sistem *peringatan* otomatis khusus untuk responden yang memilih diet Vegan / Vegetarian guna mendeteksi jika konsumsi karbohidrat olahan pemakai paltform melewati batas harian.
   
