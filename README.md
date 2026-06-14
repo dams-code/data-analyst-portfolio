@@ -6,12 +6,19 @@ Selamat datang di repositori portofolio data saya. Di sini saya merangkum berbag
 
 ## Daftar Proyek Portofolio
 
-### 1. Proyek 01: Health and Diet Calories
+### 1. Health Platform Analytics: User Demographics, Diet Performance, and Energy Balance Report
 * **Tech Stack:** SQL Server, Looker Studio, Markdown
 * **Deskripsi Singkat:** Analisis terhadap 6.000 data responden untuk menemukan anomali efektivitas diet dan merumuskan rekomendasi produk berbasis keseimbangan energi.
 * **Link shortcut:** 
   * [Lihat Folder Kode & Analisis lengkap](./01_Health_and_Diet_Calories_intake/)
   * [Lihat Interaktif Dashboard (Looker Studio)](https://datastudio.google.com/reporting/7ec7583c-7da8-42b9-a700-a3ef9baff6ad)
+
+### 2. Employee Retention & Burnout Risk Analysis
+* **Tech Stack:** SQL Server, Looker Studio, Markdown
+* **Deskripsi Singkat:** Analisis terhadap 1470 data karyawan dan mengidentifikasi akar penyebab keluarnya karyawan di berbagai departemen, Memetakan segmen karyawan tertentu yang sangat rentan terhadap risiko burnout, menyediakan rekomendasi berbasis data untuk mengoptimalkan kebijakan retensi HR, struktur kompensasi, dan manajemen beban kerja.
+* **Link shortcut:** 
+  * [Lihat Folder Kode & Analisis lengkap](./02_HR_Analytics_Employee_Attrition_and_performance/)
+  * [Lihat Interaktif Dashboard (Looker Studio)](https://datastudio.google.com/reporting/2e7c76c2-3556-4e8c-aa21-802512a546a9)
 
 ---
 
