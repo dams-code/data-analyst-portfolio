@@ -6,6 +6,9 @@
   <hr />
 </div>
 
+![Status](https://img.shields.io/badge/Project%20Status-Completed-success?style=flat-square)
+![Analysis Type](https://img.shields.io/badge/Analysis-Health%20Platform-Analytics?style=flat-square&color=blue&labelColor=grey)
+
 ## 1. Prologue
 Di era digital saat ini, kesadaran masyarakat terhadap kesehatan dan nutrisi personal meningkat pesat. Perusahaan *HealthTech* dan pengembang platform kebugaran berlomba-lomba memberikan rekomendasi yang paling personal bagi respondennya. Proyek ini berfokus pada pengolahan dan analisis data profil fisik, pola makan (diet), tingkat aktivitas, serta pemenuhan kebutuhan kalori dan nutrisi harian dari responden. Data mentah (*raw data*) dikelola di dalam **SQL Server** dan dipersiapkan untuk integrasi visualisasi data ke **Looker Studio**.
 

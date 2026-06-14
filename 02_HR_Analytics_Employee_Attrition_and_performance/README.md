@@ -6,6 +6,9 @@
   <hr />
 </div>
 
+![Status](https://img.shields.io/badge/Project%20Status-Completed-success?style=flat-square)
+![Analysis Type](https://img.shields.io/badge/Analysis-Retention%20Attrition-critical?style=flat-square)
+
 ## 1. Prologue
 Biaya untuk merekrut, melakukan *onboarding*, dan melatih karyawan baru jauh lebih tinggi daripada mempertahankan talenta yang sudah ada. Kehilangan karyawan kunci—terutama mereka yang berkinerja tinggi (*high performers*)—dapat mengganggu produktivitas tim dan menurunkan moral kerja secara keseluruhan. 
 

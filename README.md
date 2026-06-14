@@ -5,6 +5,10 @@ Selamat datang di repositori portofolio data saya. Di sini saya merangkum berbag
 ---
 
 ## Daftar Proyek Portofolio
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google-analytics&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Analytics-%20Insights-orange?style=for-the-badge)
 
 ### 1. Health Platform Analytics: User Demographics, Diet Performance, and Energy Balance Report
 * **Tech Stack:** SQL Server, Looker Studio, Markdown
