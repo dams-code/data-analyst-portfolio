@@ -43,22 +43,22 @@ Tujuan utama dari analisis ini adalah,
 
 ## 5. Executive Insights & Core Analysis
 
-### Analisis Efisiensi Berdasarkan Shift Kerja
+### Analisis 1: Analisis Efisiensi Berdasarkan Shift Kerja
 * **Tujuan:** Mengidentifikasi pengaruh faktor operasional produksi yaitu karyawan dari sisi pembagian waktu kerjanya terhadap produktivitas dan bertujuan untuk mengetahui kebocoran pada efektivitas pembagian shift kerja.
 * **Key Finding:** Model Shift yang Tidak perlu di Rombak / Diubah Strukturnya, Perlu Adanya Kedispilinan pada Respon Teknisi Lintas Shift.
 * **[Detail Laporan Angka & Query SQL Analisis 1](./query_documentation/Analisis_Efisiensi_Berdasarkan_Shift_Kerja.md)**
 
-### Analisis Faktor Penyebab Downtime
+### Analisis 2: Analisis Faktor Penyebab Downtime
 * **Tujuan:** Menghitung akumulasi waktu mati / downtime mesin dalam satuan jam, dengan tujuan menemukan mesin-mesin yang menyebabkan waktu produksi berkurang, serta mengukur kebocoran operasional di bagian produksi.
 * **Key Finding:**  Pengelompokan cara penanganan berdasarkan karakteristik kerusakan, Seperti Alat Medis, pada Mesin Produksi perlu adanya SMED (Single-minute-exchanged of die), Perlu Adanya Worklist Alert dan modul Restocking pada Sparepart Mesin dan Penjadwalan Maintance Teknisi.
 * **[Detail Laporan Angka & Query SQL Analisis 2](./query_documentation/Analisis_Faktor_Penyebab_Downtime.md)**
 
-### Analisis Mencari Mesin dengan OEE Terendah
+### Analisis 3: Analisis Mencari Mesin dengan OEE Terendah
 * **Tujuan:** Mengidentifikasi Mesin produksi yang memiliki efektivitas paling rendah di lantai produksi dengan tujuan menentukan prioritas alokasi perbaikan mesin (maintance dan operasional).
 * **Key Finding:** Fokus perbaikan pada Faktor Availability, Perlunya Audit dan Perbaikan Total, SOP standarisasi pada setup Mesin.
 * **[Detail Laporan Angka & Query SQL Analisis 3](./query_documentation/Analisis_Mencari_Mesin_dengan_OEE_Terendah.md)**
 
-### Analisis Waktu Mesin Mati dan Produk Cacat
+### Analisis 4: Analisis Waktu Mesin Mati dan Produk Cacat
 * **Tujuan:** Melihat hubungan korelasi antara waktu downtime mesin produksi terhadap produk cacat yang dihasilkan.
 * **Key Finding:** Mengatasi masalah Defect (Produk Cacat) yang dapat diatasi dengan diturunkannya tim Quality Assurance untuk memastikan agar produk defect dapat diminimalisir.
 * **[Detail Laporan Angka & Query SQL Analisis 4](./query_documentation/Analisis_Waktu_Mesin_Mati_dan_Produk_Cacat.md)**
