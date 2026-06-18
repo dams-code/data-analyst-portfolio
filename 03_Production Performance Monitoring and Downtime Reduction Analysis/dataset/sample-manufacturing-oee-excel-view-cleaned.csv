@@ -1,0 +1,5 @@
+﻿ProductionDate;MachineId;Shift;PlannedHours;ActualHours;AvailabilityPct;PerformancePct;QualityPct;OeePct;UnitsProduced;Defects;CheckDuplicateMachine;TotalDuplicate
+2023-07-28;MCH-004;Night;8;7.34;0.917;0.754;0.881;0.609;4040;480;28/07/2023_MCH-004_Night;0,00
+2024-03-29;MCH-004;Night;8;5.99;0.749;0.805;0.967;0.583;3107;102;29/03/2024_MCH-004_Night;0,00
+2024-04-01;MCH-002;Morning;8;7.53;0.941;0.776;0.892;0.651;3211;346;01/04/2024_MCH-002_Morning;0,00
+2023-01-01;MCH-005;Afternoon;8;6.61;0.826;0.951;0.992;0.779;4806;38;01/01/2023_MCH-005_Afternoon;0,00
