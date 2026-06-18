@@ -24,6 +24,12 @@ Selamat datang di repositori portofolio data saya. Di sini saya merangkum berbag
   * [Lihat Folder Kode & Analisis lengkap](./02_HR_Analytics_Employee_Attrition_and_performance/)
   * [Lihat Interaktif Dashboard (Looker Studio)](https://datastudio.google.com/reporting/2e7c76c2-3556-4e8c-aa21-802512a546a9)
 
+### 2. Production Performance Monitoring and Downtime Reduction Analysis
+* **Tech Stack:** SQL Server, Microsoft Excel, Power BI, Markdown
+* **Deskripsi Singkat:** Analisis terhadap 30.000 data mesin produksi, dengan tujuan untuk menemukan penyebab downtime, efektivitas shift kerja pada karyawan, serta melihat tingkat persentase OEE dan 3 faktornya seperti Availability, Performance, Quality.
+* **Link shortcut:** 
+  * [Lihat Folder Kode & Analisis lengkap](./03_Production_Performance_Monitoring_and_Downtime_Reduction_Analysis/)
+
 ---
 
 ## Ringkasan Tech Stack & Keahlian
